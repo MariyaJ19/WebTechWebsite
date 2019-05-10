@@ -1,0 +1,96 @@
+* {
+    margin: 0;
+    border:0;
+    padding: 0;
+}
+.wrapper {
+    margin: 0 auto;
+    padding: 5px;
+    text-align: center;
+    background:lightsteelblue;
+    color: white;
+    font-size: 20px;
+    overflow: hidden;
+}
+
+body {
+    margin: 0;
+    font-family: sans-serif;
+    text-align: center;
+    background: #f1f6f8;
+}
+
+.navigation a {
+    float: right;
+    text-align: center; 
+    color:black;
+    font-size: 20px;
+    padding: 10px;
+    text-decoration: none;
+    font-weight: bold;
+}
+.navigation a:active{
+    background-color: #f1f1f1;
+    color: azure;
+}
+.navigation a:hover {
+    color: black;
+    background-color:white;;
+}
+.navigation {
+    float: right;
+    
+}
+h1 {
+    padding-top: 3%;
+    margin-bottom: 2%;
+    background-color:lightskyblue;
+    
+}
+.map {
+    width: 100%;
+    height: 0;
+    padding-bottom: 76%;
+    padding-right: 50%;
+    
+  
+}
+.maps iframe {
+   position: absolute;
+    
+   
+}
+
+div.polaroid {
+    width: 80%;
+    margin-bottom: 60px;
+    padding-left: 5%;
+   
+  }
+  
+  div.container {
+    text-align: center;
+    padding: 10px 20px;
+  }
+#section_2 {
+    display: inline-block;
+    width: 45%;
+    margin-bottom: 30%;
+    text-align: left;
+    padding-top: 2%;
+}
+.footer {
+    background-color: skyblue;
+    padding-top: 100px;
+    position: relative;
+    height: 100px;
+    margin-top:10px;
+    clear: both;
+}
+.footer p {
+    float: left;
+    text-align: center;
+}
+@media only screen and (max-width: 600px) {
+    
+} 
