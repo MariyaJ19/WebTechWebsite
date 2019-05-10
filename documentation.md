@@ -29,4 +29,5 @@ I encountered some problems along the way while developing the site itself such 
 In order to make my site responsive i have included a meta tag in the header which allows the browsers to resize the contents to ensure it is scaled appropriately. i have also attempted to make the site responsive on mobile phones and devices 600px and lower. The images i have used throughout my website are from a free open source website called upsplash which allows you to download and use the images.# WebTechWebsite
 
 link to my Github Repository: https://github.com/MariyaJ19/WebTechWebsite.git
+
 the website is store on the folder titled: HTML DOC
